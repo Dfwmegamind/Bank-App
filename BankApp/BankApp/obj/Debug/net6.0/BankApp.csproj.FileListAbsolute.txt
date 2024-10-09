@@ -1,0 +1,17 @@
+C:\Users\Michael Olatiregun\Desktop\C# stuff\BankApp\BankApp\bin\Debug\net6.0\BankApp.exe
+C:\Users\Michael Olatiregun\Desktop\C# stuff\BankApp\BankApp\bin\Debug\net6.0\BankApp.deps.json
+C:\Users\Michael Olatiregun\Desktop\C# stuff\BankApp\BankApp\bin\Debug\net6.0\BankApp.runtimeconfig.json
+C:\Users\Michael Olatiregun\Desktop\C# stuff\BankApp\BankApp\bin\Debug\net6.0\BankApp.dll
+C:\Users\Michael Olatiregun\Desktop\C# stuff\BankApp\BankApp\bin\Debug\net6.0\BankApp.pdb
+C:\Users\Michael Olatiregun\Desktop\C# stuff\BankApp\BankApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Michael Olatiregun\Desktop\C# stuff\BankApp\BankApp\obj\Debug\net6.0\BankApp.csproj.AssemblyReference.cache
+C:\Users\Michael Olatiregun\Desktop\C# stuff\BankApp\BankApp\obj\Debug\net6.0\BankApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael Olatiregun\Desktop\C# stuff\BankApp\BankApp\obj\Debug\net6.0\BankApp.AssemblyInfoInputs.cache
+C:\Users\Michael Olatiregun\Desktop\C# stuff\BankApp\BankApp\obj\Debug\net6.0\BankApp.AssemblyInfo.cs
+C:\Users\Michael Olatiregun\Desktop\C# stuff\BankApp\BankApp\obj\Debug\net6.0\BankApp.csproj.CoreCompileInputs.cache
+C:\Users\Michael Olatiregun\Desktop\C# stuff\BankApp\BankApp\obj\Debug\net6.0\BankApp.csproj.Up2Date
+C:\Users\Michael Olatiregun\Desktop\C# stuff\BankApp\BankApp\obj\Debug\net6.0\BankApp.dll
+C:\Users\Michael Olatiregun\Desktop\C# stuff\BankApp\BankApp\obj\Debug\net6.0\refint\BankApp.dll
+C:\Users\Michael Olatiregun\Desktop\C# stuff\BankApp\BankApp\obj\Debug\net6.0\BankApp.pdb
+C:\Users\Michael Olatiregun\Desktop\C# stuff\BankApp\BankApp\obj\Debug\net6.0\BankApp.genruntimeconfig.cache
+C:\Users\Michael Olatiregun\Desktop\C# stuff\BankApp\BankApp\obj\Debug\net6.0\ref\BankApp.dll
